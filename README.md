@@ -15,3 +15,12 @@
 **Demo Link**: https://badbroken.github.io/project-meditation-site/
 
 **Repository**: https://github.com/badbroken/project-meditation-site
+
+
+
+## 3. Meditation Application
+**Details**: A platform built to close the gap between small business and shoppers. Website built with HTML, CSS, SASS, Bootstrap & Javascript.
+
+**Demo Link**: https://shopretale.netlify.app/
+
+**Repository**: https://github.com/badbroken/shopretale
