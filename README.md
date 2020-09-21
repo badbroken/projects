@@ -18,7 +18,7 @@
 
 
 
-## 3. ShopRetale
+## 3. ShopRetale (*Ongoing*)
 **Details**: A platform built to close the gap between small business and shoppers. Website built with HTML, CSS, SASS, Bootstrap & Javascript.
 
 **Demo Link**: https://shopretale.netlify.app/
